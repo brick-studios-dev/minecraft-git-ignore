@@ -1,0 +1,14 @@
+# spigot
+logs
+timings
+cache
+versions
+libraries
+
+# plugins
+userdata
+*.sqlite
+
+# files
+.console_history
+usercache.json
