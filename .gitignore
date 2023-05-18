@@ -4,6 +4,7 @@ timings
 cache
 versions
 libraries
+eula.txt
 
 # plugins
 userdata
@@ -12,3 +13,12 @@ userdata
 # files
 .console_history
 usercache.json
+
+# world
+world
+world_nether
+world_the_end
+
+# executable
+*.sh
+*.jar
