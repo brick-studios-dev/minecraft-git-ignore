@@ -11,4 +11,14 @@ userdata
 
 # files
 .console_history
+
 usercache.json
+banned-ips.json
+banned-players.json
+commands.yml
+help.yml
+ops.json
+permissions.yml
+version_history.json
+wepif.yml
+whitelist.json
