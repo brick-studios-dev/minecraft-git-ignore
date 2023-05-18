@@ -13,6 +13,7 @@ userdata
 # files
 .console_history
 usercache.json
+version_history.json
 
 # world
 world
