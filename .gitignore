@@ -6,6 +6,7 @@ versions
 libraries
 
 # plugins
+clipboard
 userdata
 *.sqlite
 
